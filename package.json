@@ -1,0 +1,10 @@
+{
+  "name": "detizen-home",
+  "version": "1.0.0",
+  "appName": "Detizen Home",
+  "packageType": "app",
+  "appPath": "index.html",
+  "serviceFile": "service.js",
+  "description": "Powrot do launchera Detizen z ekranu glownego Samsunga.",
+  "license": "MIT"
+}
